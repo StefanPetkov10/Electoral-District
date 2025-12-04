@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TU Sofia\\Semester 5\\Programing Languages\\Task_Electoral_District\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1068053B-B0B8-4478-9955-5BCD36C0CCF5}|Task_Electoral_District\\Task_Electoral_District.vcxproj|D:\\TU Sofia\\Semester 5\\Programing Languages\\Task_Electoral_District\\Task_Electoral_District\\Task_Electoral_District.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1068053B-B0B8-4478-9955-5BCD36C0CCF5}|Task_Electoral_District\\Task_Electoral_District.vcxproj|solutionrelative:Task_Electoral_District\\Task_Electoral_District.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 199,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task_Electoral_District.cpp",
+              "DocumentMoniker": "D:\\TU Sofia\\Semester 5\\Programing Languages\\Task_Electoral_District\\Task_Electoral_District\\Task_Electoral_District.cpp",
+              "RelativeDocumentMoniker": "Task_Electoral_District\\Task_Electoral_District.cpp",
+              "ToolTip": "D:\\TU Sofia\\Semester 5\\Programing Languages\\Task_Electoral_District\\Task_Electoral_District\\Task_Electoral_District.cpp",
+              "RelativeToolTip": "Task_Electoral_District\\Task_Electoral_District.cpp",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAIIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-02T12:59:33.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 201,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{905da7d1-18fd-4a46-8d0f-a5ff58ada9de}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

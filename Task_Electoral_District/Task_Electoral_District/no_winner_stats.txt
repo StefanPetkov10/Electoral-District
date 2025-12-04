@@ -1,0 +1,4 @@
+District | % Non-Voters
+-----------------------
+Alpha | 100.00%
+Sofia | 60.00%

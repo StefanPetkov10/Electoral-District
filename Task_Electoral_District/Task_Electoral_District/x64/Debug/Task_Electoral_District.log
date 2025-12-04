@@ -1,0 +1,5 @@
+﻿  Task_Electoral_District.cpp
+D:\TU Sofia\Semester 5\Programing Languages\Task_Electoral_District\Task_Electoral_District\Task_Electoral_District.cpp(146,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\TU Sofia\Semester 5\Programing Languages\Task_Electoral_District\Task_Electoral_District\Task_Electoral_District.cpp(156,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\TU Sofia\Semester 5\Programing Languages\Task_Electoral_District\Task_Electoral_District\Task_Electoral_District.cpp(294,23): warning C4101: 'e': unreferenced local variable
+  Task_Electoral_District.vcxproj -> D:\TU Sofia\Semester 5\Programing Languages\Task_Electoral_District\x64\Debug\Task_Electoral_District.exe
